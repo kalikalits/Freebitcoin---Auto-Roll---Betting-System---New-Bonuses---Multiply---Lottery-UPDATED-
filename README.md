@@ -1,0 +1,3 @@
+# Freebitcoin---Auto-Roll---Betting-System---New-Bonuses---Multiply---Lottery-UPDATED-
+https://greasyfork.org/scripts/455035-freebitcoin-auto-roll-betting-system-new-bonuses-multiply-lottery-updated/code/Freebitcoin - Auto Roll - Betting System - New Bonuses - Multiply - Lottery [UPDATED].user.js
+FreeBitCoin AI auto roll Referreal:  Subscribe using my referreal link: https://freebitco.in/?r=50791912.  If you want to use the script without sending donation, please consider to create a new account with my referreal. It's free for you, just deposit your past balance to the new account, and it will help a lot future enhancements in the script.
