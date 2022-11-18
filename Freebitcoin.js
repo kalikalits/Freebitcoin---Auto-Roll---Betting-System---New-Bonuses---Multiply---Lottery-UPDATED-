@@ -1,1 +1,0 @@
-https://greasyfork.org/scripts/455035-freebitcoin-auto-roll-betting-system-new-bonuses-multiply-lottery-updated/code/Freebitcoin - Auto Roll - Betting System - New Bonuses - Multiply - Lottery [UPDATED].user.js
