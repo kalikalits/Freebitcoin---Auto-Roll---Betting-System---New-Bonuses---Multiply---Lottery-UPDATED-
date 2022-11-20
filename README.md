@@ -8,7 +8,7 @@ Requirements:
 
 -A freebitco.in account. If you don't have one you can use this referreal:
 
-https://freebitco.in/?r=50791912
+[https://freebitco.in/?r=50801176](https://freebitco.in/?r=50801176)
 -Tampermonkey, download the one for your browser.
 -A Web Browser (tested on Chrome and Firefox)
 
